@@ -56,5 +56,15 @@
     "ignore": [
       "**/*.d.ts"
     ]
-  }
+  },
+  "keywords": [
+    "semantic-ui-react",
+    "semantic",
+    "ui",
+    "react",
+    "input",
+    "file",
+    "control",
+    "component"
+  ]
 }
