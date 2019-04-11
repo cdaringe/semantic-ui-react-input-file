@@ -1,5 +1,6 @@
 {
   "name": "semantic-ui-react-input-file",
+  "description": "a semantic-ui-react compatible file input control",
   "version": "0.0.0--semantic-release",
   "main": "src/index.js",
   "files": [

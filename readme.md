@@ -1,6 +1,6 @@
 # semantic-ui-react-input-file
 
-a [semantic-ui-react](https://react.semantic-ui.com) compatible input control
+a [semantic-ui-react](https://react.semantic-ui.com) compatible file input control
 
 ![](./img/input-file.png)
 
