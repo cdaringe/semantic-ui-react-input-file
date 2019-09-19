@@ -10,7 +10,7 @@
   "author": "cdaringe <cdaringe@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": ">16",
+    "react": "16.9.0",
     "react-dom": "16.9.0",
     "semantic-ui-react": "*"
   },
