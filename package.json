@@ -27,7 +27,7 @@
     "semantic-release": "15.13.24",
     "semantic-ui-react": "0.88.1",
     "standard": "14.3.1",
-    "typescript": "3.6.3"
+    "typescript": "3.6.4"
   },
   "scripts": {
     "build": "tsc",
