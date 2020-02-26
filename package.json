@@ -10,8 +10,8 @@
   "author": "cdaringe <cdaringe@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
     "semantic-ui-react": "*"
   },
   "devDependencies": {
@@ -22,8 +22,8 @@
     "husky": "4.2.3",
     "lint-staged": "10.0.8",
     "prettier-standard": "16.1.0",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
     "semantic-release": "17.0.4",
     "semantic-ui-react": "0.88.2",
     "standard": "14.3.1",
