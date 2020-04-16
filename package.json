@@ -24,7 +24,7 @@
     "prettier-standard": "16.2.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "semantic-release": "17.0.4",
+    "semantic-release": "17.0.6",
     "semantic-ui-react": "0.88.2",
     "standard": "14.3.3",
     "typescript": "3.8.3"
