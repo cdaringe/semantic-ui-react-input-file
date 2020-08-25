@@ -20,7 +20,7 @@
     "@types/react": "16.9.47",
     "@typescript-eslint/parser": "2.34.0",
     "husky": "4.2.5",
-    "lint-staged": "10.2.11",
+    "lint-staged": "10.2.12",
     "prettier-standard": "16.4.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
