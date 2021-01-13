@@ -215,17 +215,17 @@
   resolved "https://registry.yarnpkg.com/@commitlint/types/-/types-11.0.0.tgz#719cf05fcc1abb6533610a2e0f5dd1e61eac14fe"
   integrity sha512-VoNqai1vR5anRF5Tuh/+SWDFk7xi7oMwHrHrbm1BprYXjB2RJsWLhUrStMssDxEl5lW/z3EUdg8RvH/IUBccSQ==
 
-"@fluentui/react-component-event-listener@~0.51.1":
-  version "0.51.2"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-component-event-listener/-/react-component-event-listener-0.51.2.tgz#bb403c96acfa9fb4ea338f3f2bf66e672085a4c7"
-  integrity sha512-myfDuwU/MRGH5hqldLmwfMAn7FoXCCspdknWg+A0Tyf+mjUsgWlqRewLapon8mJqprZzrH1obPxONV/lVI3Quw==
+"@fluentui/react-component-event-listener@~0.51.5":
+  version "0.51.5"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-component-event-listener/-/react-component-event-listener-0.51.5.tgz#cc744ef1a048604925c2a3cd4636638f3b65136c"
+  integrity sha512-GdKyWJJ/JE4YpE2XCl3ZcwM3fnsfat64M3KD5nrPJCp7CL8n7GR0RbacQqZZa8pd1A9Zp7mBhFm/kQxw52D+hA==
   dependencies:
     "@babel/runtime" "^7.10.4"
 
-"@fluentui/react-component-ref@~0.51.1":
-  version "0.51.2"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-component-ref/-/react-component-ref-0.51.2.tgz#17d27ce4da914e162a9ac4f3f4a7810d1ade658a"
-  integrity sha512-LE3NXMHJ5K2ZgTf+p/l4cDRYwmfXTw1XhjZLBI0sZaggbaUxMgrfvr0DHvkcZrbr3aLMaILYoQrTjP9Y1w0veA==
+"@fluentui/react-component-ref@~0.51.5":
+  version "0.51.5"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-component-ref/-/react-component-ref-0.51.5.tgz#a6066223bb3e55439807ce541f28abb14b8850b8"
+  integrity sha512-EwlQm7ohwdcX8uYYMic+1WSd1FJUByDID4LpUkb+fwoz1qCNEeMsAk8yjqvidOYUddC2LJfG35iEvZ2/Ae41Hg==
   dependencies:
     "@babel/runtime" "^7.10.4"
     react-is "^16.6.3"
@@ -333,10 +333,10 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@popperjs/core@^2.5.2":
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.5.3.tgz#4982b0b66b7a4cf949b86f5d25a8cf757d3cfd9d"
-  integrity sha512-RFwCobxsvZ6j7twS7dHIZQZituMIDJJNHS/qY6iuthVebxS3zhRY+jaC2roEKiAYaVuTcGmX6Luc6YBcf6zJVg==
+"@popperjs/core@^2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.6.0.tgz#f022195afdfc942e088ee2101285a1d31c7d727f"
+  integrity sha512-cPqjjzuFWNK3BSKLm0abspP0sp/IGOli4p5I5fKFAzdS8fvjdOwDCfZqAaIiXd9lPkOWi3SUUfZof3hEb7J/uw==
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
@@ -420,10 +420,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@semantic-ui-react/event-stack@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@semantic-ui-react/event-stack/-/event-stack-3.1.0.tgz#aadbe4a28b0dd7703c5f451640d0fefe66dd9208"
-  integrity sha512-WHtU9wutZByZtFZxzj4BVEk+rvWldZpZhRcyv6d84+XLSolm83zLHYJLTACGuSl6Xa/xpgVXquvm9GyMudkJYg==
+"@semantic-ui-react/event-stack@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@semantic-ui-react/event-stack/-/event-stack-3.1.2.tgz#14fac9796695aa3967962d94ea9733a85325f9c4"
+  integrity sha512-Yd0Qf7lPCIjzJ9bZYfurlNu2RDXT6KKSyubHfYK3WjRauhxCsq6Fk2LMRI9DEvShoEU+AsLSv3NGkqXAcVp0zg==
   dependencies:
     exenv "^1.2.2"
     prop-types "^15.6.2"
@@ -6158,7 +6158,7 @@ react-fast-compare@^3.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
-react-is@^16.6.3, react-is@^16.8.6:
+react-is@^16.6.3:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
@@ -6168,10 +6168,15 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-popper@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/react-popper/-/react-popper-2.2.3.tgz#33d425fa6975d4bd54d9acd64897a89d904b9d97"
-  integrity sha512-mOEiMNT1249js0jJvkrOjyHsGvqcJd3aGW/agkiMoZk3bZ1fXN1wQszIQSjHIai48fE67+zwF8Cs+C4fWqlfjw==
+"react-is@^16.8.6 || ^17.0.0":
+  version "17.0.1"
+  resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
+  integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
+
+react-popper@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/react-popper/-/react-popper-2.2.4.tgz#d2ad3d2474ac9f1abf93df3099d408e5aa6a2e22"
+  integrity sha512-NacOu4zWupdQjVXq02XpTD3yFPSfg5a7fex0wa3uGKVkFK7UN6LvVxgcb+xYr56UCuWiNPMH20tntdVdJRwYew==
   dependencies:
     react-fast-compare "^3.0.1"
     warning "^4.0.2"
@@ -6723,23 +6728,23 @@ semantic-release@17.3.2:
     signale "^1.2.1"
     yargs "^15.0.1"
 
-semantic-ui-react@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/semantic-ui-react/-/semantic-ui-react-2.0.1.tgz#a69aa65001c437ae0b3ed747d1f43ee5b4e88407"
-  integrity sha512-l1g9ZTRHqe+nSgcTuaTTxnnIdPAgyzoAZY35ciL0pjopeC7mWxNVhBqm98tmR0kgoL7NvWjY+Dy/AUc3l6FVKw==
+semantic-ui-react@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/semantic-ui-react/-/semantic-ui-react-2.0.2.tgz#d9e2e7a9a0cfd431678e7d9bbaa204522569ccee"
+  integrity sha512-ud0gC3sIONQ/6oLIJP5ZAuT+p1Bgd20zipe5kPvrTBohFfnF09vbkFamTCa463oDf/eYzQ91IcU+C35wM3GGUQ==
   dependencies:
     "@babel/runtime" "^7.10.5"
-    "@fluentui/react-component-event-listener" "~0.51.1"
-    "@fluentui/react-component-ref" "~0.51.1"
-    "@popperjs/core" "^2.5.2"
-    "@semantic-ui-react/event-stack" "^3.1.0"
+    "@fluentui/react-component-event-listener" "~0.51.5"
+    "@fluentui/react-component-ref" "~0.51.5"
+    "@popperjs/core" "^2.6.0"
+    "@semantic-ui-react/event-stack" "^3.1.2"
     clsx "^1.1.1"
     keyboard-key "^1.1.0"
     lodash "^4.17.19"
     lodash-es "^4.17.15"
     prop-types "^15.7.2"
-    react-is "^16.8.6"
-    react-popper "^2.2.3"
+    react-is "^16.8.6 || ^17.0.0"
+    react-popper "^2.2.4"
     shallowequal "^1.1.0"
 
 semver-compare@^1.0.0:
