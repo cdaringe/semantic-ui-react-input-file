@@ -18,7 +18,7 @@
     "@commitlint/cli": "13.1.0",
     "@commitlint/config-conventional": "13.1.0",
     "@types/react": "17.0.18",
-    "@typescript-eslint/parser": "4.29.1",
+    "@typescript-eslint/parser": "4.29.2",
     "husky": "7.0.1",
     "lint-staged": "11.1.2",
     "prettier-standard": "16.4.1",
