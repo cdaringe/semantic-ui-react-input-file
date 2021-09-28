@@ -15,8 +15,8 @@
     "semantic-ui-react": "*"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.1.0",
-    "@commitlint/config-conventional": "13.1.0",
+    "@commitlint/cli": "13.2.0",
+    "@commitlint/config-conventional": "13.2.0",
     "@types/react": "17.0.24",
     "@typescript-eslint/parser": "4.32.0",
     "husky": "7.0.2",
