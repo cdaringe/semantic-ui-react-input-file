@@ -17,7 +17,7 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.4",
     "@commitlint/config-conventional": "16.2.4",
-    "@types/react": "17.0.44",
+    "@types/react": "17.0.45",
     "@typescript-eslint/parser": "5.22.0",
     "husky": "7.0.4",
     "lint-staged": "12.4.1",
